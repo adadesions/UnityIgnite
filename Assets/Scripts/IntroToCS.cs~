@@ -1,0 +1,19 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class IntroToCS : MonoBehaviour
+{
+	// Start is called before the first frame update
+	void Start()
+	{
+		int hp = 100;
+		print(hp);
+	}
+
+	// Update is called once per frame
+	void Update()
+	{
+
+	}
+}

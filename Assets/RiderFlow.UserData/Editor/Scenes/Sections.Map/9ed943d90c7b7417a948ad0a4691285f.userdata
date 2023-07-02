@@ -1,0 +1,52 @@
+{
+  "GlobalObjectId_V1-2-9ed943d90c7b7417a948ad0a4691285f-399830839-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-9ed943d90c7b7417a948ad0a4691285f-399830839-0",
+    "SectionColorRed": 0.77,
+    "SectionColorGreen": 0.35,
+    "SectionColorBlue": 0.35,
+    "SectionAltColorRed": 0.77,
+    "SectionAltColorGreen": 0.35,
+    "SectionAltColorBlue": 0.35,
+    "RemoveSectionDuringBuild": false
+  },
+  "GlobalObjectId_V1-2-9ed943d90c7b7417a948ad0a4691285f-1152503381-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-9ed943d90c7b7417a948ad0a4691285f-1152503381-0",
+    "SectionColorRed": 0.6792453,
+    "SectionColorGreen": 0.455493927,
+    "SectionColorBlue": 0.0,
+    "SectionAltColorRed": 0.6792453,
+    "SectionAltColorGreen": 0.455493927,
+    "SectionAltColorBlue": 0.0,
+    "RemoveSectionDuringBuild": true
+  },
+  "GlobalObjectId_V1-2-9ed943d90c7b7417a948ad0a4691285f-476840127-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-9ed943d90c7b7417a948ad0a4691285f-476840127-0",
+    "SectionColorRed": 0.35,
+    "SectionColorGreen": 0.35,
+    "SectionColorBlue": 0.77,
+    "SectionAltColorRed": 0.35,
+    "SectionAltColorGreen": 0.35,
+    "SectionAltColorBlue": 0.77,
+    "RemoveSectionDuringBuild": false
+  },
+  "GlobalObjectId_V1-2-9ed943d90c7b7417a948ad0a4691285f-89476559-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-9ed943d90c7b7417a948ad0a4691285f-89476559-0",
+    "SectionColorRed": 0.35,
+    "SectionColorGreen": 0.77,
+    "SectionColorBlue": 0.35,
+    "SectionAltColorRed": 0.35,
+    "SectionAltColorGreen": 0.77,
+    "SectionAltColorBlue": 0.35,
+    "RemoveSectionDuringBuild": false
+  },
+  "GlobalObjectId_V1-2-9ed943d90c7b7417a948ad0a4691285f-793800581-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-9ed943d90c7b7417a948ad0a4691285f-793800581-0",
+    "SectionColorRed": 0.8333335,
+    "SectionColorGreen": 0.5,
+    "SectionColorBlue": 1.0,
+    "SectionAltColorRed": 0.375000119,
+    "SectionAltColorGreen": 0.125,
+    "SectionAltColorBlue": 0.5,
+    "RemoveSectionDuringBuild": false
+  }
+}
